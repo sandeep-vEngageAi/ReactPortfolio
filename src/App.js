@@ -6,7 +6,7 @@ import Particles from "react-particles-js";
 function App() {
   return (
     <>
-      {/* <Particles
+      <Particles
       className="particles-canvas"
         params={{
           particles: {
@@ -30,8 +30,7 @@ function App() {
       />
 
       <Navbar />
-      <Header /> */}
-      <h1>Hi, this is the way of deployment.!!!</h1>
+      <Header />
     </>
   );
 }
