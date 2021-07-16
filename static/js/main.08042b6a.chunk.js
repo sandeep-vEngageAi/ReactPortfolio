@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[0],{345:function(t,e,n){"use strict";n.r(e);var o=n(13),r=n.n(o),c=n(75),i=n.n(c),s=(n(83),n(84),n(76),n(77),n(6));n(78),n(91);var h=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("h1",{children:"Hi, this is the way of deployment.!!!"})})};i.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(h,{})}),document.getElementById("root"))},83:function(t,e,n){}},[[345,1,2]]]);
+//# sourceMappingURL=main.08042b6a.chunk.js.map
